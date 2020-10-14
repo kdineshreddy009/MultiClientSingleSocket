@@ -12,7 +12,7 @@ Create a simplified web-server:
 
 # How to run & test:
 
-- Pull this to local with command line(assuming you have git command line utility is installed) 
+- Pull this to local with command line(assuming you have git command-line utility installed) 
 
         git clone https://github.com/kdineshreddy009/MultiClientSingleSocket.git 
         
